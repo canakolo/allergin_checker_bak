@@ -72,7 +72,7 @@ try{
             <link rel="stylesheet" type="text/css" href="../style.css">
             <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
         </head>
-
+<p>git commit --amend</p>
     <body class="page-login page-1colum">
       <?php require('header.php'); ?>
 
